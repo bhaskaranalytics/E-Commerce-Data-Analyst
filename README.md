@@ -11,7 +11,7 @@ The challenge centered on analyzing a dataset from Olist, a popular e-commerce c
 - Offer recommendations to Olist company
 
 ## **DATASET AND DATA DICTIONARY**
-The Olist [dataset](https://drive.google.com/drive/folders/1re0HnJD5TCNVkVDHoPQ08aByKMWRRRJC) comprises nine separate datasets, all of which are stored in CSV format:
+The Olist comprises nine separate datasets, all of which are stored in CSV format:
 1. olist_order_items_dataset
 2. olist_orders_dataset
 3. olist_order_payments_dataset
@@ -23,6 +23,8 @@ The Olist [dataset](https://drive.google.com/drive/folders/1re0HnJD5TCNVkVDHoPQ0
 9. olist_category_dataset
 
 The olist [Data Dictionary](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/files/11643097/Olist.Data.Dictionary.2.pdf) that offers a complete overview of the dataset. This data dictionary is a valuable reference as it provides in-depth explanations of each variable and its significance within the dataset. It serves as a useful tool for understanding and interpreting the data effectively.
+
+![ER Diagram-Sample](https://github.com/bhaskaranalytics/E-Commerce-Data-Analysis-SQL/blob/main/Ecommerce%20Data%20%20%20ER%20diagram.png)
 
 ## **CLEANING OF ALL THE TABLES**
 
